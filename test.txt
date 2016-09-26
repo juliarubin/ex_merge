@@ -1,6 +1,6 @@
 line 1 resolution
 line 2 resolution
 line 3 f_x
-line 4 master
+line 4 resolution
 line 5 i resolution
 
